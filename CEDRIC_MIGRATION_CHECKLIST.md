@@ -202,7 +202,7 @@ To properly split the device tree, investigate:
 
 ## Resources
 
-- **Cedric XDA Thread:** https://forum.xda-developers.com/moto-g5
+- **Cedric XDA Forum:** https://forum.xda-developers.com/c/moto-g5.6055/
 - **LineageOS Wiki:** https://wiki.lineageos.org/
 - **Similar Device Trees:** Look at other Motorola devices in LineageOS
 - **Motorola MSM8937 Common:** This repository serves as the base

@@ -68,9 +68,8 @@ device_motorola_cedric/
 │       └── base/
 │           ├── core/
 │           │   └── res/
-│           │       └── res/
-│           │           └── values/
-│           │               └── config.xml
+│           │       └── values/
+│           │           └── config.xml
 │           └── packages/
 │               └── SystemUI/
 │                   └── res/
